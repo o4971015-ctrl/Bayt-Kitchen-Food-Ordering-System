@@ -1,0 +1,3 @@
+Customer | customer@demo.test | xXccLrZlqoll_ghCEcKXUER9CJ6sTScx
+Staff | staff@demo.test | uCewb-it2uo15GrS-hBJ7-K_r4Xr8CW7
+Admin | admin@demo.test | 0QEKXL6ktAGf8sTI1U95FIj5uT0_PFQO

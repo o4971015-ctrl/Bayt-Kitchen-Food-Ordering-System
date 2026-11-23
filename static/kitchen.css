@@ -1,0 +1,15 @@
+:root{--forest:#204b3d;--paper:#f7f3e9;--ink:#23362e;--border:#d7d8ca}
+body{background:var(--paper);color:var(--ink);font-family:system-ui,sans-serif;overflow-wrap:anywhere}
+header{background:#fffdf7;border-bottom:1px solid var(--border)}
+a{color:#265e4a}.brand,h1,h2{font-family:Georgia,serif}.brand{font-size:1.65rem;font-weight:bold;text-decoration:none}
+.heading{background:var(--forest);color:#fff8e6;padding:clamp(1.3rem,4vw,3.8rem);border-radius:.6rem}
+.heading h1{font-size:clamp(2rem,6vw,4.4rem);letter-spacing:-.045em;margin-bottom:.3rem}
+.panel{border:1px solid var(--border);background:#fffdf7;border-radius:.7rem;padding:clamp(1rem,2vw,1.55rem)}
+h2{font-size:1.45rem}.category{color:#815515;text-transform:uppercase;letter-spacing:.06em;font-size:.77rem;font-weight:bold}
+.price{white-space:nowrap;font-size:1.15rem;font-weight:700}.account{font-size:.83rem;color:#455}
+.line{padding:.75rem 0;border-bottom:1px solid var(--border)}.quantity{width:5rem}.form-panel{max-width:38rem}
+.form-panel label,.panel>label,.editor label{display:block;margin-bottom:1rem}.form-control,.form-select{border-color:#a4ad9e}
+.btn-primary{--bs-btn-bg:#204b3d;--bs-btn-border-color:#204b3d;--bs-btn-hover-bg:#16382c;--bs-btn-hover-border-color:#16382c}
+:focus-visible{outline:3px solid #9b5500!important;outline-offset:3px}
+.status{display:inline-block;background:#e1eddf;border-radius:1rem;padding:.2rem .65rem;font-weight:600}
+summary{cursor:pointer;font-weight:600}details form{padding-top:.75rem}
